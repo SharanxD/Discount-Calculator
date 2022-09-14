@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="calculate_discount">DISCOUNT CALCULATOR</string>
+    <string name="discount_rate">Discount Rate</string>
+    <string name="discount_amount">Discounted Amount: %s</string>
+    <string name="button">Calculate</string>
+    <string name="round_up">ROUND UP \?</string>
+</resources>
